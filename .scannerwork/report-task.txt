@@ -1,0 +1,6 @@
+projectKey=node-test
+serverUrl=http://192.168.100.178:9001
+serverVersion=10.0.0.68432
+dashboardUrl=http://192.168.100.178:9001/dashboard?id=node-test
+ceTaskId=AYd37WnPa8duBh7lr_Kf
+ceTaskUrl=http://192.168.100.178:9001/api/ce/task?id=AYd37WnPa8duBh7lr_Kf
